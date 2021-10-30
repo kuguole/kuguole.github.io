@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://kuguole.github.io/archives/543d2c51.html</loc>
+    <loc>https://kuguole.github.io/archives/fd317c05.html</loc>
     
     <lastmod>2021-10-30</lastmod>
     
@@ -10,6 +10,13 @@
   
   <url>
     <loc>https://kuguole.github.io/archives/c1e995f0.html</loc>
+    
+    <lastmod>2021-10-30</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://kuguole.github.io/archives/543d2c51.html</loc>
     
     <lastmod>2021-10-30</lastmod>
     
@@ -68,6 +75,34 @@
     <loc>https://kuguole.github.io/tags/index.html</loc>
     
     <lastmod>2021-10-25</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://kuguole.github.io/live2d/message.json</loc>
+    
+    <lastmod>2018-06-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://kuguole.github.io/live2d/model/Violet/14.json</loc>
+    
+    <lastmod>2018-06-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://kuguole.github.io/live2d/model/xiaomai/physics.json</loc>
+    
+    <lastmod>2018-06-14</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://kuguole.github.io/live2d/model/xiaomai/xiaomai.json</loc>
+    
+    <lastmod>2018-06-14</lastmod>
     
   </url>
   
